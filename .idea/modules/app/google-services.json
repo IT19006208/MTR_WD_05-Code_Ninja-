@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "693525809003",
+    "firebase_url": "https://neweresturant.firebaseio.com",
+    "project_id": "neweresturant",
+    "storage_bucket": "neweresturant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693525809003:android:cde01a33c3f0a802a2ee2e",
+        "android_client_info": {
+          "package_name": "com.example.neweresturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693525809003-gua617dffqip37060si32c1877bb2gvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neweresturant",
+            "certificate_hash": "101709e998ad7a5c9ff122b53e774f47f4b89685"
+          }
+        },
+        {
+          "client_id": "693525809003-vpdvu4368skmqsbgl9k66bm0amdl8scc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neweresturant",
+            "certificate_hash": "67db315a873e9678389d7e908a6805dd7bdba579"
+          }
+        },
+        {
+          "client_id": "693525809003-bvivd0092rlr0av48fjsr9si779m091j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYAKCghIPslKknelGTlZ_zRyrJS7EHZ4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693525809003-bvivd0092rlr0av48fjsr9si779m091j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
